@@ -16,4 +16,4 @@ Follow these steps to set up the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/word-vector-semantics.git
+   git clone [https://github.com/your-username/word-vector-semantics.git](https://github.com/Syntax404-coder/ccs249-assign-5-taganahan)
